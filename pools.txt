@@ -15,7 +15,7 @@
  
 "pool_list" :
 [
-	{"pool_address" : "geo.atpool.party:3333", "wallet_address" : "TRTLv2EiqzvELTNvJmf5asJ4w2jEgHiuqY38fkigHtHKddnwzBbQiDg1B7ssz5wWnrJzKJwA5pFqJCnSZF2di2cBNpqAsjVjAuj", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "trtl.pool.mine2gether.com:3335", "wallet_address" : "TRTLv2EiqzvELTNvJmf5asJ4w2jEgHiuqY38fkigHtHKddnwzBbQiDg1B7ssz5wWnrJzKJwA5pFqJCnSZF2di2cBNpqAsjVjAuj", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
