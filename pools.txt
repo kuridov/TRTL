@@ -1,8 +1,8 @@
 "pool_list" :
 [
 	{
-		"pool_address" : "geo.atpool.party:3333",
-		"wallet_address" : "TRTLv2EiqzvELTNvJmf5asJ4w2jEgHiuqY38fkigHtHKddnwzBbQiDg1B7ssz5wWnrJzKJwA5pFqJCnSZF2di2cBNpqAsjVjAuj",
+		"pool_address" : "199.247.21.36:5555",
+		"wallet_address" : "WtipUwCGMLSKMDqGrGPu4zHWnycn71vCm3rV3YReLT2QK77cKu97T3f9FkS2dNL4Lsh7M6ZptT1iHauM7Fxt9SfC7mWh5SdzeH",
 		"rig_id" : "",
 		"pool_password" : "x",
 		"use_nicehash" : false,
