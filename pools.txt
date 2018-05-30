@@ -1,10 +1,10 @@
 "pool_list" :
 [
 	{
-		"pool_address" : "pool.wtip.iccob.com:3376",
-		"wallet_address" : "WtipUwCGMLSKMDqGrGPu4zHWnycn71vCm3rV3YReLT2QK77cKu97T3f9FkS2dNL4Lsh7M6ZptT1iHauM7Fxt9SfC7mWh5SdzeH.25000",
+		"pool_address" : "trtl.pool.mine2gether.com:2225",
+		"wallet_address" : "TRTLv2EiqzvELTNvJmf5asJ4w2jEgHiuqY38fkigHtHKddnwzBbQiDg1B7ssz5wWnrJzKJwA5pFqJCnSZF2di2cBNpqAsjVjAuj.25000",
 		"rig_id" : "",
-		"pool_password" : "x",
+		"pool_password" : "GCE",
 		"use_nicehash" : false,
 		"use_tls" : false,
 		"tls_fingerprint" : "",
